@@ -1,4 +1,4 @@
-# firebase_background_notification_not_working
+# firebase_background_notification_working
 
 A new Flutter project.
 
